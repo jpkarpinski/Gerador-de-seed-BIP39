@@ -1,4 +1,4 @@
-// Dependendo das versões de libs o código pode não funcionar, caso ocorra, instale as versões específicadas abaixo.
+// GERADOR DE CARTEIRA BITCOIN BIP39
 const bip39 = require('bip39'); // versão 3.1.0
 const bip32 = require('bip32'); // versão 2.0.6
 const bitcoin = require('bitcoinjs-lib'); // versão 7.0.0-rc.0
