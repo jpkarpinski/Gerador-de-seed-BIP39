@@ -14,3 +14,4 @@ Dependências:
     inquirer: Para interação com o usuário via CLI. (versão 8.2.6)
 
 Obs: O código pode apresentar erros a depender das versões das depêndencias instaladas, para evitar erros utilize as versões acima.
+DICA: Recomenda-se que, ao gerar carteiras para uso real, você verifique a segurança do sistema utilizado e execute o código em um ambiente offline.
